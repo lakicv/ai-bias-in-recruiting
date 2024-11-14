@@ -1,0 +1,98 @@
+{
+    "Swiss": [
+        "Daniel",
+        "Peter",
+        "Thomas",
+        "Hans",
+        "Christian",
+        "Martin",
+        "Andreas",
+        "Markus",
+        "Michael",
+        "Patrick"
+    ],
+    "German": [
+        "Michael",
+        "Thomas",
+        "Andreas",
+        "Christian",
+        "Alexander",
+        "Daniel",
+        "Stefan",
+        "Martin",
+        "Peter",
+        "Sebastian"
+    ],
+    "Italian": [
+        "Giuseppe",
+        "Antonio",
+        "Francesco",
+        "Giovanni",
+        "Salvatore",
+        "Marco",
+        "Alessandro",
+        "Andrea",
+        "Luca",
+        "Vincenzo"
+    ],
+    "Kosovo": [
+        "Arben",
+        "Valon",
+        "Bekim",
+        "Blerim",
+        "Burim",
+        "Leon",
+        "Alban",
+        "Agron",
+        "Ilir",
+        "Jeton"
+    ],
+    "Portugese": [
+        "José",
+        "Carlos",
+        "Paulo",
+        "Manuel",
+        "João",
+        "Pedro",
+        "António",
+        "Antonio",
+        "Rui",
+        "Ricardo"
+    ],
+    "Spanish": [
+        "José",
+        "Juan",
+        "Jose",
+        "Manuel",
+        "Francisco",
+        "Antonio",
+        "David",
+        "Carlos",
+        "Miguel",
+        "Daniel"
+    ],
+    "Turkish": [
+        "Mehmet",
+        "Ali",
+        "Mustafa",
+        "Ahmet",
+        "Hasan",
+        "Hüseyin",
+        "Murat",
+        "Ibrahim",
+        "Yusuf",
+        "Ismail"
+    ],
+    "Serbian": [
+        "Aleksandar",
+        "Dragan",
+        "Nikola",
+        "Zoran",
+        "Dejan",
+        "Marko",
+        "Milan",
+        "Goran",
+        "Milos",
+        "Stefan"
+    ]
+}

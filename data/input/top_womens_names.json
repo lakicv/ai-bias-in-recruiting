@@ -1,0 +1,98 @@
+{
+    "Swiss": [
+        "Maria",
+        "Ursula",
+        "Anna",
+        "Ruth",
+        "Elisabeth",
+        "Sandra",
+        "Monika",
+        "Nicole",
+        "Verena",
+        "Claudia"
+    ],
+    "German": [
+        "Julia",
+        "Anna",
+        "Claudia",
+        "Sabine",
+        "Nicole",
+        "Katharina",
+        "Susanne",
+        "Sandra",
+        "Andrea",
+        "Anja"
+    ],
+    "Italian": [
+        "Maria",
+        "Anna",
+        "Francesca",
+        "Angela",
+        "Rosa",
+        "Giulia",
+        "Laura",
+        "Lucia",
+        "Chiara",
+        "Giuseppina"
+    ],
+    "Kosovo": [
+        "Fatime",
+        "Shqipe",
+        "Merita",
+        "Vlora",
+        "Valentina",
+        "Shpresa",
+        "Ganimete",
+        "Vjollca",
+        "Edona",
+        "Teuta"
+    ],
+    "Portugese": [
+        "Maria",
+        "Ana",
+        "Sandra",
+        "Carla",
+        "Paula",
+        "Sara",
+        "Joana",
+        "Susana",
+        "Diana",
+        "Beatriz"
+    ],
+    "Spanish": [
+        "Maria",
+        "Ana",
+        "Laura",
+        "Carmen",
+        "María",
+        "Cristina",
+        "Isabel",
+        "Rosa",
+        "Sara",
+        "Marta"
+    ],
+    "Turkish": [
+        "Fatma",
+        "Ayse",
+        "Elif",
+        "Hatice",
+        "Zeynep",
+        "Emine",
+        "Sultan",
+        "Meryem",
+        "Özlem",
+        "Songül"
+    ],
+    "Serbian": [
+        "Jelena",
+        "Marija",
+        "Dragana",
+        "Danijela",
+        "Ivana",
+        "Snezana",
+        "Milica",
+        "Aleksandra",
+        "Mirjana",
+        "Slavica"
+    ]
+}

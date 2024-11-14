@@ -1,0 +1,98 @@
+{
+    "Swiss": [
+        "Müller",
+        "Meier",
+        "Schmid",
+        "Keller",
+        "Weber",
+        "Schneider",
+        "Huber",
+        "Meyer",
+        "Steiner",
+        "Fischer"
+    ],
+    "German": [
+        "Müller",
+        "Schmidt",
+        "Schneider",
+        "Fischer",
+        "Weber",
+        "Meyer",
+        "Wagner",
+        "Becker",
+        "Schulz",
+        "Hoffmann"
+    ],
+    "Italian": [
+        "Rossi",
+        "Russo",
+        "Ferrari",
+        "Esposito",
+        "Colombo",
+        "Bianchi",
+        "Romano",
+        "Ricci",
+        "Gallo",
+        "Dal"
+    ],
+    "Kosovo": [
+        "Krasniqi",
+        "Gashi",
+        "Berisha",
+        "Morina",
+        "Shala",
+        "Bytyqi",
+        "Kastrati",
+        "Hasani",
+        "Bajrami",
+        "Hoti"
+    ],
+    "Portugese": [
+        "Silva",
+        "Santos",
+        "Ferreira",
+        "Pereira",
+        "Costa",
+        "Oliveira",
+        "Martins",
+        "Rodrigues",
+        "Sousa",
+        "Fernandes"
+    ],
+    "Spanish": [
+        "Garcia",
+        "Rodriguez",
+        "Gonzalez",
+        "Fernandez",
+        "Lopez",
+        "Martinez",
+        "Sanchez",
+        "Perez",
+        "Gomez",
+        "Martin"
+    ],
+    "Turkish": [
+        "Yilmaz",
+        "Kaya",
+        "Demir",
+        "Çelik",
+        "Şahin",
+        "Yildiz",
+        "Yildirim",
+        "Öztürk",
+        "Aydin",
+        "Özdemir"
+    ],
+    "Serbian": [
+        "Jovanovic",
+        "Nikolic",
+        "Petrovic",
+        "Djordjevic",
+        "Ilic",
+        "Pavlovic",
+        "Markovic",
+        "Stojanovic",
+        "Popovic",
+        "Zivkovic"
+    ]
+}

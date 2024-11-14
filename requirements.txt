@@ -1,0 +1,7 @@
+openai==1.5.0
+tqdm
+pandas
+numpy
+nbexec
+jupyterlab
+dotenv
